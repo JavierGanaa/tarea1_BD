@@ -1,0 +1,20 @@
+--------------------------------------------------------------------
+-Nombre1: Matías Guajardo Fuentes
+-Rol1: 
+-Nombre2: Javier Alonso Gana Muñoz
+-Rol2: 202373540-k
+--------------------------------------------------------------------
+AMBIENTE DE EJECUCION USADO
+--------------------------------------------------------------------
+- Sistema operativo: Windows
+- Programa de ejecucion del código: SQL Server Management Studio 20
+--------------------------------------------------------------------
+EJECUCIÓN
+--------------------------------------------------------------------
+- La ejecución se hizo gracias al boton "Execute" que tiene SQL Server. También puede ejecutarse con la tecla F5
+--------------------------------------------------------------------
+CONSIDERACIONES AL MOMENTO DE EJECUTAR
+--------------------------------------------------------------------
+- El codigo tiene en consideracion que existen las bases de datos "athele_events" y "noc_regions", ambos producto de los archivos .csv dados para la tarea.
+- El codigo debe ser ejecutado en bloques para evitar errores de duplicacion de tablas y de demasiados resultados simultáneamente.
+--------------------------------------------------------------------
